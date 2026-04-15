@@ -12,7 +12,7 @@
     <td width="80%" align="left">
       <h2 align="center">🤝🏼</h2>
       <p>Estudio <b>desarrollo web</b> con intereses en todos los campos del mundo IT. <br>
-         En el pasado estudié Ingeniería Electrónica y Automática (no lo recomiendo).</p>
+         En el pasado estudié Ingeniería Electrónica y Automática (no era lo mío).</p>
       <p>Me apasiona lo que hago 🫀</p>
     </td>
   </tr>
